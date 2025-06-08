@@ -1,2 +1,2 @@
-# Boot.dev Python AI Agent
-Boot.dev AI Python Agent Project
+# Boot.dev - AI Agent in Python
+Boot.dev AI Agent in Python Course Project
